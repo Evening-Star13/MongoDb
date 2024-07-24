@@ -1,0 +1,72 @@
+[{
+  "_id": {
+    "$oid": "669ef85c02ac864674c4e49b"
+  },
+  "Name": "Chris Barranger",
+  "Age": 52,
+  "Profession": "Software Engineer"
+},
+{
+  "_id": {
+    "$oid": "669efbfb02ac864674c4e49c"
+  },
+  "Name": "Rebecca Harris",
+  "Age": 43,
+  "Profession": "Marketing Administration"
+},
+{
+  "_id": {
+    "$oid": "669efbfb02ac864674c4e49d"
+  },
+  "Name": "Jaide Barranger",
+  "Age": 20,
+  "Profession": "Surgeon"
+},
+{
+  "_id": {
+    "$oid": "669efbfb02ac864674c4e49e"
+  },
+  "Name": "Ethan Barranger",
+  "Age": 17,
+  "Profession": "Gamer"
+},
+{
+  "_id": {
+    "$oid": "669efe036bb160b6f04f6027"
+  },
+  "Name": "Koda Harris",
+  "Age": 12,
+  "Profession": "Lay About"
+},
+{
+  "_id": {
+    "$oid": "669eff726bb160b6f04f6028"
+  },
+  "Name": "Simba Barranger",
+  "Age": 1,
+  "Profession": "Punk Ass Rabbit"
+},
+{
+  "_id": {
+    "$oid": "669f01ca6bb160b6f04f6029"
+  },
+  "Name": "Devin Patton",
+  "Age": 34,
+  "Profession": "Assistant Kitchen Manager"
+},
+{
+  "_id": {
+    "$oid": "669f01ca6bb160b6f04f602a"
+  },
+  "Name": "Jay Borden",
+  "Age": 34,
+  "Profession": "Kitchen Manager"
+},
+{
+  "_id": {
+    "$oid": "669f01ca6bb160b6f04f602b"
+  },
+  "Name": "Terry Muse",
+  "Age": 64,
+  "Profession": "Cook"
+}]
