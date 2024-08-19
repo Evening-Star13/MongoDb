@@ -24,6 +24,11 @@ db.student.insertOne({}) => this will add one item to database ({Name:"Chris Bar
 db.students.insertMany({},{},{}) => this will add many items to database ({Name:"Rebecca Harris", Age:43, Profession:'Marketing Administration'},{Name:"Jaide Barranger", Age:20, Profession:"Surgeon"},{Name:"Ethan Barranger", Age:17, Profession:"Gamer"})
 <hr>    
 
+## Create Data with an Array
+
+db.Student.insertOne({firstName:"Cal", lastName:"Lightman", age:54, occupation:"Criminologist", skills:["Lie Detection", "Behavioral Patterns", "Deception"]}) => from skills on to the end this how you create an Array within the data.
+<hr>
+
 ## Sort & Limit
 
 db.students.find().sort() => this will sort ascending or descending => db.students.find().sort(Name:1) (ascending) or (Name:-1(descending))
